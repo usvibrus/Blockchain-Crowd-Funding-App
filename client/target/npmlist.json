@@ -1,0 +1,1 @@
+{"version":"0.0.0","name":"client","dependencies":{"@thirdweb-dev/react":{"version":"3.6.8"},"@thirdweb-dev/sdk":{"version":"3.6.8"},"ethers":{"version":"5.7.2"},"react-dom":{"version":"18.2.0"},"react-router-dom":{"version":"6.6.1"},"react-scripts":{"version":"5.0.1"},"react":{"version":"18.2.0"}}}
